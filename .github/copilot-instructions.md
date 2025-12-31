@@ -1,4 +1,4 @@
-# AlphaZero Neural Network - Copilot Instructions (byJacek1)
+# AlphaZero Neural Network - Copilot Instructions (byJacek)
 
 ## Project Overview
 Educational implementation of an AlphaZero-style neural network (`alpha0.py`) that combines:
